@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a final-year Ph.D. student in the [School of Computing and Information Systems](https://cis.unimelb.edu.au/) at University of Melbourne, Australia. Prior to Ph.D., I was a search algorithm engineer at Alibaba Group in Beijing for three years. My major research interests are in dialogue systems, natural language processing, deep learning and neuro-symbolic reasoning. My dream is to develop machines that can read, think and talk like humans.
+I am a final-year Ph.D. student in the [School of Computing and Information Systems](https://cis.unimelb.edu.au/) at University of Melbourne, Australia. Prior to Ph.D., I was a senior machine learning engineer at Alibaba Group in Beijing for three years. My major research interests are in dialogue systems, natural language processing, deep learning and neuro-symbolic reasoning. My dream is to develop machines that can read, think and talk like humans.
 
 I am currently actively looking for a postdoc position.
 <br/>
