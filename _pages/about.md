@@ -29,7 +29,7 @@ Education
 * Seq. 2012 - Jun. 2015, M.Sc. in Control Science and Engineering, Tsinghua University.
 * Seq. 2007 - Jun. 2011, B.Sc. in Control Science and Engineering, Beijing Jiaotong University.
 
-Wroking Experiences
+Working Experiences
 ======
 * July. 2015 - Jan. 2019, Senior Machine Learning Engineer (Full-time employee), Alibaba Search Division.
 * Sep. 2014 - Dec. 2014, Machine Learning Engineer (Intern), Baidu Big Data Lab.
