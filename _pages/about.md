@@ -12,6 +12,11 @@ I am a final-year Ph.D. student in the School of Computing and Information Syste
 
 I am currently actively looking for a postdoc position.
 
+
+**Contact**
+Email: [my initials]@student.unimelb.edu.au, where [my_initials]=shiquan
+Phone: (+61) 411958456
+
 Publications
 ======
 * ***Shiquan Yang***, Rui Zhang, Sarah Erfani, Jey Han Lau. "An Interpretable Neuro-Symbolic Reasoning Framework for Task-Oriented Dialogue Generation", to appear in Proceedings of The 60th Annual Meeting of the Association for Computational Linguistics (**ACL 2022**), long paper, ACL.
