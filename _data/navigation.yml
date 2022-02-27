@@ -4,16 +4,16 @@ main:
     url: /#a-data-driven-personal-website
 
   - title: "Education"
-    url:     
+    url: /#getting-started
 
   - title: "Experiences"
-    url:     
+    url: /#site-wide-configuration
     
   - title: "Teaching"
-    url: 
+    url: /#markdown-generator
         
   - title: "Awards"
-    url: /year-archive/
+    url: /#for-more-info
     
 #   - title: "CV"
 #     url: /cv/
