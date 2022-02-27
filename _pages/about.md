@@ -25,7 +25,7 @@ Patent
 
 Education
 ======
-* ***Feb. 2019 - Aug. 2022 (expected)***, Ph.D., School of Computing and Information System, University of Melbourne.
+* ***Feb. 2019 - Aug. 2022 (expected)***, Ph.D., School of Computing and Information Systems, University of Melbourne.
 * ***Seq. 2012 - Jun. 2015***, M.Sc. in Control Science and Engineering, Tsinghua University.
 * ***Seq. 2007 - Jun. 2011***, B.Sc. in Control Science and Engineering, Beijing Jiaotong University.
 
