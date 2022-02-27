@@ -19,6 +19,9 @@ Publications
 * **Shiquan Yang**, Rui Zhang, Sarah Erfani. "GraphDialog: Integrating Graph Knowledge into End-to-End Task-Oriented Dialogue Systems", in Proceedings of Conference on Empirical Methods in Natural Language Processing (**EMNLP 2020**), long paper, ACL.
 * **Shiquan Yang**, Jianqiang Dong, Bo Yuan. "An Efficient Parallel ISODATA algorithm based on Kepler GPUs", in Proceedings of the International Joint Conference on Neural Networks (**IJCNN 2014**), **oral**, full paper, Beijing, IEEE. 
 
+Patent
+======
+* **Shiquan Yang**, Bo Yuan. A Parallel Sequence Mining Method Based on Graphics Processing Units, Patent ID: CN103995690B (Granted).
 
 Education
 ======
