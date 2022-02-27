@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome!🤗"
+title: "About Me: Shiquan Yang"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
