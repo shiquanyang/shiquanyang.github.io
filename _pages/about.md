@@ -33,7 +33,7 @@ Teaching
 
 Awards
 ======
-* 2019-2022, Melbourne Research Scholarship
+* Melbourne Research Scholarship (2019-2022)
 
 Professional Services
 ======
