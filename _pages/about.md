@@ -14,25 +14,25 @@ I am currently actively looking for a postdoc position.
 
 Publications
 ======
-* **Shiquan Yang**, Rui Zhang, Sarah Erfani, Jey Han Lau. "An Interpretable Neuro-Symbolic Framework for Task-Oriented Dialogue Generation", to appear in Proceedings of The 60th Annual Meeting of the Association for Computational Linguistics (**ACL 2022**), long paper, ACL.
-* **Shiquan Yang**, Rui Zhang, Sarah Erfani, Jey Han Lau. "UniMF: A Unified Framework to Incorporate Multimodal Knowledge Bases into End-to-End Task-Oriented Dialogue Systems", in Proceedings of the 30th International Joint Conference on Artificial Intelligence (**IJCAI 2021**), **oral**, acceptance rate **13.9%**, full paper, Montreal, IJCAI.
-* **Shiquan Yang**, Rui Zhang, Sarah Erfani. "GraphDialog: Integrating Graph Knowledge into End-to-End Task-Oriented Dialogue Systems", in Proceedings of Conference on Empirical Methods in Natural Language Processing (**EMNLP 2020**), long paper, ACL.
-* **Shiquan Yang**, Jianqiang Dong, Bo Yuan. "An Efficient Parallel ISODATA algorithm based on Kepler GPUs", in Proceedings of the International Joint Conference on Neural Networks (**IJCNN 2014**), **oral**, full paper, Beijing, IEEE. 
+* ***Shiquan Yang***, Rui Zhang, Sarah Erfani, Jey Han Lau. "An Interpretable Neuro-Symbolic Framework for Task-Oriented Dialogue Generation", to appear in Proceedings of The 60th Annual Meeting of the Association for Computational Linguistics (**ACL 2022**), long paper, ACL.
+* ***Shiquan Yang***, Rui Zhang, Sarah Erfani, Jey Han Lau. "UniMF: A Unified Framework to Incorporate Multimodal Knowledge Bases into End-to-End Task-Oriented Dialogue Systems", in Proceedings of the 30th International Joint Conference on Artificial Intelligence (**IJCAI 2021**), **oral**, acceptance rate **13.9%**, full paper, Montreal, IJCAI.
+* ***Shiquan Yang***, Rui Zhang, Sarah Erfani. "GraphDialog: Integrating Graph Knowledge into End-to-End Task-Oriented Dialogue Systems", in Proceedings of Conference on Empirical Methods in Natural Language Processing (**EMNLP 2020**), long paper, ACL.
+* ***Shiquan Yang***, Jianqiang Dong, Bo Yuan. "An Efficient Parallel ISODATA algorithm based on Kepler GPUs", in Proceedings of the International Joint Conference on Neural Networks (**IJCNN 2014**), **oral**, full paper, Beijing, IEEE. 
 
 Patent
 ======
-* **Shiquan Yang**, Bo Yuan. A Parallel Sequence Mining Method Based on Graphics Processing Units. Patent ID: CN103995690B. Issue date: August, 2016.
+* ***Shiquan Yang***, Bo Yuan. A Parallel Sequence Mining Method Based on Graphics Processing Units. Patent ID: CN103995690B. Issue date: August, 2016.
 
 Education
 ======
-* Feb. 2019 - Aug. 2022 (expected), Ph.D., School of Computing and Information System, University of Melbourne.
-* Seq. 2012 - Jun. 2015, M.Sc. in Control Science and Engineering, Tsinghua University.
-* Seq. 2007 - Jun. 2011, B.Sc. in Control Science and Engineering, Beijing Jiaotong University.
+* ***Feb. 2019 - Aug. 2022 (expected)***, Ph.D., School of Computing and Information System, University of Melbourne.
+* ***Seq. 2012 - Jun. 2015***, M.Sc. in Control Science and Engineering, Tsinghua University.
+* ***Seq. 2007 - Jun. 2011***, B.Sc. in Control Science and Engineering, Beijing Jiaotong University.
 
 Working Experiences
 ======
-* July. 2015 - Jan. 2019, Senior Machine Learning Engineer (Full-time employee), Alibaba Search Division.
-* Sep. 2014 - Dec. 2014, Machine Learning Engineer (Intern), Baidu Big Data Lab.
+* ***July. 2015 - Jan. 2019***, Senior Machine Learning Engineer (Full-time employee), Alibaba Search Division.
+* ***Sep. 2014 - Dec. 2014***, Machine Learning Engineer (Intern), Baidu Big Data Lab.
 
 Teaching
 ======
