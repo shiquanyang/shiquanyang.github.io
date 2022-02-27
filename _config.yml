@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Shiquan Yang"
-  avatar           : "images/profile.png"
+  avatar           : "profile.png"
   bio              : "PhD student at University of Melbourne"
   location         : "Melbourne, Australia"
   employer         :
