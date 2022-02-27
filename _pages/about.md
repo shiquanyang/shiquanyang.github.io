@@ -15,9 +15,8 @@ I am currently actively looking for a postdoc position.
 <br/>
 
 **Contact**  
-Email: *x@y*, where *x=shiquan* and *y=student.unimelb.edu.au*  
+Email: *x@y<shiquan@student.unimelb.edu.au>*, where *x=shiquan* and *y=student.unimelb.edu.au*  
 Phone: (+61) 411958456
-<br/>
 
 Publications
 ======
