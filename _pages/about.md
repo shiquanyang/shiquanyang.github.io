@@ -21,7 +21,7 @@ Publications
 
 Patent
 ======
-* **Shiquan Yang**, Bo Yuan. A Parallel Sequence Mining Method Based on Graphics Processing Units, Patent ID: CN103995690B (Granted).
+* **Shiquan Yang**, Bo Yuan. A Parallel Sequence Mining Method Based on Graphics Processing Units, Patent ID: CN103995690B. Issue date: August, 2016.
 
 Education
 ======
