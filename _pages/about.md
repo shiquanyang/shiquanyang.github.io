@@ -8,12 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I am a final-year Ph.D. student in the School of Computing and Information Systems (CIS) at The University of Melbourne, Australia. I received my M.S. degrees in Control Science and Engineering from Tsinghua University in 2015, B.S degrees in Control Science and Engineering from Beijing Jiaotong University in 2011. Before Ph.D., I have been a search algorithm engineer at Alibaba Group in Beijing for three years. My major research interests include dialogue system, natural language processing, deep learning and neuro-symbolic reasoning. My dream is to develop machines that can read, think and talk like humans.
+I am a final-year Ph.D. student in the School of Computing and Information Systems (CIS) at The University of Melbourne, Australia. I received my M.S. degrees in Control Science and Engineering from Tsinghua University in 2015, B.S degrees in Control Science and Engineering from Beijing Jiaotong University in 2011. Before Ph.D., I have been a search algorithm engineer at Alibaba Group in Beijing for three years. My major research interests include dialogue systems, natural language processing, deep learning and neuro-symbolic reasoning. My dream is to develop machines that can read, think and talk like humans.
 
 I am currently looking for a postdoc position.
 
 Publications
 ======
+* **Shiquan Yang**, Rui Zhang, Sarah Erfani, Jey Han Lau. "An Interpretable Neuro-Symbolic Framework for Task-Oriented Dialogue Generation", to appear in Proceedings of The 60th Annual Meeting of the Association for Computational Linguistics (**ACL 2022**), long paper, ACL.
+* **Shiquan Yang**, Rui Zhang, Sarah Erfani, Jey Han Lau. "UniMF: A Unified Framework to Incorporate Multimodal Knowledge Bases into End-to-End Task-Oriented Dialogue Systems", in Proceedings of the 30th International Joint Conference on Artificial Intelligence (**IJCAI 2021**), full paper, Montreal, IJCAI.
+* **Shiquan Yang**, Rui Zhang, Sarah Erfani. "GraphDialog: Integrating Graph Knowledge into End-to-End Task-Oriented Dialogue Systems", in Proceedings of Conference on Empirical Methods in Natural Language Processing (**EMNLP 2020**), EMNLP, ACL.
 
 
 Education
