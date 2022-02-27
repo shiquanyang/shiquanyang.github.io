@@ -15,9 +15,9 @@ I am currently looking for a postdoc position.
 Publications
 ======
 * **Shiquan Yang**, Rui Zhang, Sarah Erfani, Jey Han Lau. "An Interpretable Neuro-Symbolic Framework for Task-Oriented Dialogue Generation", to appear in Proceedings of The 60th Annual Meeting of the Association for Computational Linguistics (**ACL 2022**), long paper, ACL.
-* **Shiquan Yang**, Rui Zhang, Sarah Erfani, Jey Han Lau. "UniMF: A Unified Framework to Incorporate Multimodal Knowledge Bases into End-to-End Task-Oriented Dialogue Systems", in Proceedings of the 30th International Joint Conference on Artificial Intelligence (**IJCAI 2021, Oral**), full paper, Montreal, IJCAI.
+* **Shiquan Yang**, Rui Zhang, Sarah Erfani, Jey Han Lau. "UniMF: A Unified Framework to Incorporate Multimodal Knowledge Bases into End-to-End Task-Oriented Dialogue Systems", in Proceedings of the 30th International Joint Conference on Artificial Intelligence (**IJCAI 2021 (Oral, acceptance rate 13.9%**), full paper, Montreal, IJCAI.
 * **Shiquan Yang**, Rui Zhang, Sarah Erfani. "GraphDialog: Integrating Graph Knowledge into End-to-End Task-Oriented Dialogue Systems", in Proceedings of Conference on Empirical Methods in Natural Language Processing (**EMNLP 2020**), long paper, ACL.
-* **Shiquan Yang**, Jianqiang Dong, Bo Yuan. "An Efficient Parallel ISODATA algorithm based on Kepler GPUs", in Proceedings of the International Joint Conference on Neural Networks (**IJCNN 2014, Oral**), full paper, Beijing, IEEE. 
+* **Shiquan Yang**, Jianqiang Dong, Bo Yuan. "An Efficient Parallel ISODATA algorithm based on Kepler GPUs", in Proceedings of the International Joint Conference on Neural Networks (**IJCNN 2014 (Oral)**), full paper, Beijing, IEEE. 
 
 
 Education
