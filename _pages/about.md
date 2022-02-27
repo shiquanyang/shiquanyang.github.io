@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a final-year Ph.D. student in the School of Computing and Information Systems (CIS) at The University of Melbourne, Australia. I received my M.S. degrees in Control Science and Engineering from Tsinghua University in 2015, B.S degrees in Control Science and Engineering from Beijing Jiaotong University in 2011. Before Ph.D., I have been a search algorithm engineer at Alibaba Group in Beijing for three years. My major research interests include dialogue systems, natural language processing, deep learning and neuro-symbolic reasoning. My dream is to develop machines that can read, think and talk like humans.
+I am a final-year Ph.D. student in the School of Computing and Information Systems (CIS) at The University of Melbourne, Australia. I received my M.S. degrees in Control Science and Engineering from Tsinghua University in 2015, B.S degrees in Control Science and Engineering from Beijing Jiaotong University in 2011. Before Ph.D., I have been a search algorithm engineer at Alibaba Group in Beijing for three years. My major research interests include dialogue systems, natural language processing, deep learning and neuro-symbolic reasoning. My dream is to develop machines that can think, read and talk like humans.
 
 I am currently looking for a postdoc position.
 
