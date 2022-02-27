@@ -33,12 +33,12 @@ Teaching
 
 Awards
 ======
-* 2019-2022 Melbourne Research Scholarship
+* 2019-2022  Melbourne Research Scholarship
 
 Professional Services
 ======
-* Program Committee (Reviewer):
-** Empirical Methods in Natural Language Processing (EMNLP 2021).
-* Conference Secondary Reviewer:
-** The 30th Web Conference \textbf{(WWW 2021).
-** The 25th International Conference on Database Systems for Advanced Applications \textbf{(DASFAA 2020).
+- Program Committee (Reviewer):
+    - Empirical Methods in Natural Language Processing (EMNLP 2021).
+- Conference Secondary Reviewer:
+    - The 30th Web Conference \textbf{(WWW 2021).
+    - The 25th International Conference on Database Systems for Advanced Applications \textbf{(DASFAA 2020).
