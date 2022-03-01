@@ -57,3 +57,8 @@ Professional Services
 - Conference Secondary Reviewer:
     - The 30th Web Conference (WWW 2021).
     - The 25th International Conference on Database Systems for Advanced Applications (DASFAA 2020).
+
+
+CV
+======
+* [Curriculum Vitae](https://drive.google.com/file/d/1rDrVKfqO9yy2WNINRDcG-oXiXk3yvBg5/view?usp=sharing)
