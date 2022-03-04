@@ -12,7 +12,6 @@ I am a final-year Ph.D. student in the [School of Computing and Information Syst
 
 <!-- I am currently actively looking for a postdoc position. -->
 <br/>
-<br/>
 
 **Contact**  
 Email: *x@y*, where *x=shiquan* and *y=student.unimelb.edu.au*  
