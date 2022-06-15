@@ -19,6 +19,7 @@ Email: *x@y*, where *x=shiquan* and *y=student.unimelb.edu.au*
 
 Publications
 ======
+* ***Shiquan Yang***, Xinting Huang, Jey Han Lau, Sarah Erfani. "Robust Task-Oriented Dialogue Generation with Contrastive Pre-training and Adversarial Filtering", [Arxiv](https://arxiv.org/abs/2205.10363).
 * ***Shiquan Yang***, Rui Zhang, Sarah Erfani, Jey Han Lau. "An Interpretable Neuro-Symbolic Reasoning Framework for Task-Oriented Dialogue Generation", to appear in Proceedings of The 60th Annual Meeting of the Association for Computational Linguistics (**ACL 2022**), long paper, ACL.
 * ***Shiquan Yang***, Rui Zhang, Sarah Erfani, Jey Han Lau. "UniMF: A Unified Framework to Incorporate Multimodal Knowledge Bases into End-to-End Task-Oriented Dialogue Systems", in Proceedings of the 30th International Joint Conference on Artificial Intelligence (**IJCAI 2021**), **oral**, acceptance rate **13.9%**, full paper, Montreal, IJCAI.
 * ***Shiquan Yang***, Rui Zhang, Sarah Erfani. "GraphDialog: Integrating Graph Knowledge into End-to-End Task-Oriented Dialogue Systems", in Proceedings of Conference on Empirical Methods in Natural Language Processing (**EMNLP 2020**), long paper, ACL.
@@ -52,6 +53,7 @@ Awards
 Professional Services
 ======
 - Program Committee (Reviewer):
+    - The 11th CCF International Conference on Natural Language Processing and Chinese Computing (NLPCC 2022)
     - Empirical Methods in Natural Language Processing (EMNLP 2021).
 - Conference Secondary Reviewer:
     - The 39th International Conference on Machine Learning (ICML 2022).
