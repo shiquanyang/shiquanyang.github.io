@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a final-year Ph.D. student in the [School of Computing and Information Systems](https://cis.unimelb.edu.au/) at University of Melbourne, Australia. Prior to Ph.D., I spent over 3 years as an industrial machine learning engineer at Alibaba Group in Beijing, developing solutions for search user experience optimization. My major research interests are in dialogue systems, natural language processing, deep learning and neuro-symbolic reasoning.
+I am a final-year Ph.D. student in the [School of Computing and Information Systems](https://cis.unimelb.edu.au/) at University of Melbourne, Australia. Prior to Ph.D., I spent over 3 years as an industrial machine learning engineer at Alibaba Group in Beijing, developing solutions for search user experience optimization. My major research interests are in dialogue systems, natural language processing, deep learning, neuro-symbolic reasoning and contrastive learning.
 
 <!-- I am currently actively looking for a postdoc position. -->
 <br/>
@@ -53,6 +53,7 @@ Awards
 Professional Services
 ======
 - Program Committee (Reviewer):
+    - Empirical Methods in Natural Language Processing (EMNLP 2022).
     - The 11th CCF International Conference on Natural Language Processing and Chinese Computing (NLPCC 2022)
     - Empirical Methods in Natural Language Processing (EMNLP 2021).
 - Conference Secondary Reviewer:
